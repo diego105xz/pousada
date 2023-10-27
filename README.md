@@ -1,6 +1,6 @@
 # Pousada Secreta
 [Respositório](https://github.com/diego105xz/pousada)
-[Site]([https://github.com/diego105xz/pousada](https://diego105xz.github.io/pousada/))
+[Site](https://github.com/diego105xz/pousada)
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/diego105xz/Projeto_Blog/blob/main/LICENSE) 
 
